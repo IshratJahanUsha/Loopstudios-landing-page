@@ -86,7 +86,7 @@ footer {
     top: 0;
     left: 0;
     right: 0;
-    background-color: rgb(102, 213, 228);
+    background-color: var(--Black);
     min-height: 100vh;
     padding: 12rem 1.5rem 0;
     line-height: 2;
