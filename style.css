@@ -86,8 +86,8 @@ footer {
     top: 0;
     left: 0;
     right: 0;
-    /* background-color: var(--Black); */
-    background-color: gray;
+    background-color: var(--Black);
+    /* background-color: rgb(32, 13, 13); */
     min-height: 100vh;
     padding: 12rem 1.5rem 0;
     line-height: 2;
